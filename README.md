@@ -13,4 +13,4 @@ Como gosto muito de arte, usei o BriaAI para gerar a imagem, tornando real minha
 A arte fiou muito bonita, disponível aqui **[Imagem do Paraíso]()** .
 
 ## 💭 Reflexão (Opcional)
-Sempre me impessiono com a evolução de geração de imagens com as IAs, beira a perfeição.
+Sempre me impressiono com a evolução de geração de imagens com as IAs, beira a perfeição.
