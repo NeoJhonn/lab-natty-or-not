@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A representação do Paraíso Usando IA Generativa.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Gerando uma arte belíssima do que seria o céu, com uma linda paisagem e anjos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[BriaAI]([https://chat.openai.com](https://platform.bria.ai/))**
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Como gosto muito de arte, usei o BriaAI para gerar a imagem, tornando real minha ispiração
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A arte fiou muito bonita, disponível aqui **[Imagem do Paraíso]())** 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Sempre me impessiono com a evolução de geração de imagens com as IAs, beira a perfeição.
 ```
 
 ### Exemplos e Insigths
