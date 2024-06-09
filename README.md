@@ -26,7 +26,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Gerando uma arte belíssima do que seria o céu, com uma linda paisagem e anjos.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[BriaAI]([https://chat.openai.com](https://platform.bria.ai/))**
+- IA Generativa **[BriaAI][([(https://platform.bria.ai/)])**
 
 ## 🧐 Processo de Criação
 Como gosto muito de arte, usei o BriaAI para gerar a imagem, tornando real minha ispiração
